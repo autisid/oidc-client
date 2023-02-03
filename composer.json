@@ -5,7 +5,7 @@
     "keywords": ["OpenID Connect", "OIDC", "client", "OAuth 2", "SSO", "RFC6749", "RFC7009", "RFC7636", "RFC7662"],
     "license": "Apache-2.0",
     "require": {
-        "php": ">=8.1",
+        "php": ">=8.0",
         "ext-json": "*",
         "ext-mbstring": "*",
         "cse/helpers-session": "^1",
