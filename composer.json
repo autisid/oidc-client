@@ -16,7 +16,7 @@
     "require-dev": {
         "roave/security-advisories": "dev-latest",
         "friendsofphp/php-cs-fixer": "^3",
-        "phpunit/phpunit": "^9",
+        "phpunit/phpunit": "^9.5.10",
         "vlucas/phpdotenv": "^5"
     },
     "suggest": {
