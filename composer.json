@@ -1,6 +1,6 @@
 {
     "name": "autisid/oidc-client",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "OpenID Connect client",
     "keywords": ["OpenID Connect", "OIDC", "client", "OAuth 2", "SSO", "RFC6749", "RFC7009", "RFC7636", "RFC7662"],
     "license": "Apache-2.0",
@@ -30,7 +30,7 @@
     },
     "autoload" : {
          "psr-4": {
-           "autisid\\OpenIDConnect\\": "src/"
+           "Autisid\\OpenIDConnect\\": "src/"
          }
     }
 }
